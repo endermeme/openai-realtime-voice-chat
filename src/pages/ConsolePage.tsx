@@ -507,8 +507,8 @@ export function ConsolePage() {
     <div data-component="ConsolePage">
       <div className="content-top">
         <div className="content-title">
-          <img src="/openai-logomark.svg" />
-          <span>realtime console</span>
+          <img src="https://cdn.glitch.global/1eee455c-65a0-428f-a71b-89f07640b91b/Logo%20ces%20xanh%20m%E1%BB%9Bi-01%20(1).png?v=1742217120883" />
+          <span>CES REALTIME AI</span>
         </div>
         <div className="content-api-key">
           {!LOCAL_RELAY_SERVER_URL && (
