@@ -507,7 +507,7 @@ export function ConsolePage() {
     <div data-component="ConsolePage">
       <div className="content-top">
         <div className="content-title">
-          <img src="https://cdn.glitch.global/1eee455c-65a0-428f-a71b-89f07640b91b/Logo%20ces%20xanh%20m%E1%BB%9Bi-01%20(1).png?v=1742217120883" />
+          <img src="https://cdn.glitch.global/1eee455c-65a0-428f-a71b-89f07640b91b/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.svg?v=1742919732332" />
           <span>CES REALTIME AI</span>
         </div>
         <div className="content-api-key">
